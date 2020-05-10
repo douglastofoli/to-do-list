@@ -14,7 +14,9 @@
   "author": "Douglas Tofoli",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1"
+    "ejs": "^3.1.2",
+    "express": "^4.17.1",
+    "mongoose": "^5.9.13"
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
